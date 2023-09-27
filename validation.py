@@ -23,8 +23,8 @@ def validate_user_input():
 
 # 1.2 TODO: Once you are done, uncomment the two lines below to ensure that your code works as expected
 
-user_number = validate_user_input()
-print(f'The number the user entered is {user_number}.')
+# user_number = validate_user_input()
+# print(f'The number the user entered is {user_number}.')
 
 
 # 2.1 TODO: Create a function called print_tenth_item that will
@@ -46,5 +46,5 @@ def print_tenth_item(top_ten):
 
 # 2.2 TODO: Once you are done, uncomment the two lines below to ensure that your code works as expected
 
-print_tenth_item(['a', 'b', 'c'])  # Should print out that there are not ten items in the list
-print_tenth_item([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])  # Should print out the 10th item in the list
+# print_tenth_item(['a', 'b', 'c'])  # Should print out that there are not ten items in the list
+# print_tenth_item([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12])  # Should print out the 10th item in the list
